@@ -3,3 +3,5 @@ content # 1
 Content # 2
 
 Content # 3 after branch 2 creation
+
+Content # 4 after change in branch 1 commit #2
